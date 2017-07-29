@@ -1,6 +1,4 @@
 # Web Scraping
-===================
-
 
 ### This is the repository for learning the Web Scraping in Python.
 
