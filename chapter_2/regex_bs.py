@@ -11,7 +11,7 @@ def getBS4Object(url):
     try:
         html = urlopen(url)
     except HTTPError as e:
-        print("HTTP Error. Page not retrievable from the serve")
+        print("HTTP Error. Page not retrievable from the server")
     except URLError as e:
         print("URL Error. URL is not correct or Server is down.")
     else:
