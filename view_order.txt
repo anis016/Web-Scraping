@@ -5,3 +5,5 @@ handling_error.py
 
 chapter_2:
 css_tag.py
+descendants_traverse.py
+siblings_traverse.py

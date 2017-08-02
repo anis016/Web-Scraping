@@ -6,3 +6,6 @@
 
 ### Installed Library:
 * beautifulsoup4==4.6.0
+
+### References:
+* https://docs.python.org/3/library/urllib.html
