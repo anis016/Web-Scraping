@@ -7,3 +7,12 @@ chapter_2:
 css_tag.py
 descendants_traverse.py
 siblings_traverse.py
+regex_email.py
+regex_bs.py
+lambda.py
+
+chapter_3:
+find_all_articles.py
+recursive_kb.py
+duplicate_finding.py
+specific_scrape.py
